@@ -1,7 +1,7 @@
 # 507-streamlit-demo
 Streamlit demo 2024 fall using github codespaces 
 
-Link: 
+Link: https://app-dashboard-enhanced-aqmjflhms5h8f2ztpfumdy.streamlit.app/
 
 ## Overview
 
